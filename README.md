@@ -1,2 +1,2 @@
 # IIITH_CSE
-CSE content all years
+These repo contains semester wise subjects and their contents and the lectures and papers
